@@ -6,18 +6,18 @@
 
 <!--- Pick Cloud provider Badge -->
 <!---![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) -->
-<!---![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) -->
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+<!---! ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) --->
 <!---![Snowflake](https://img.shields.io/badge/-SNOWFLAKE-249edc?style=for-the-badge&logo=snowflake&logoColor=white) -->
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 <!--- Replace repository name -->
-![License](https://badgen.net/github/license/getindata/terraform-module-template/)
-![Release](https://badgen.net/github/release/getindata/terraform-module-template/)
+<!--- ![License](https://badgen.net/github/license/getindata/terraform-module-template/) -->
+![Release](https://badgen.net/static/release/v0.0.1/)
 
 <p align="center">
-  <img height="150" src="https://getindata.com/img/logo.svg">
-  <h3 align="center">We help companies turn their data into assets</h3>
+  <img height="150" src="https://www.comsoltx.com/wp-content/uploads/2016/03/logo-dir-e1462808600875.png">
+  <h1 align="center">#DIRisIT</h1>
 </p>
 
 ---
